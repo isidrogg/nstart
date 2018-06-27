@@ -9,5 +9,6 @@
     "@webcomponents/webcomponentsjs": "^2.0.0",
     "wct-browser-legacy": "^1.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "version": "0.0.1-alpha"
 }
