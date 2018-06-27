@@ -20,7 +20,9 @@ class NstarApp extends PolymerElement {
   }
   static get properties() {
     return {
-      num: Number,
+      num: {
+        type: Number
+      },
       nstar: {
         type: Array,
         value: [],
